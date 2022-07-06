@@ -1,0 +1,26 @@
+
+# IntelliJ Idea
+out/
+target/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# OS X
+*~
+.DS_Store
+.vscode
+*.log
+
+# Windows
+Thumbs.db
